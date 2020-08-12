@@ -1,3 +1,7 @@
+# Ruby on Rails Social Media application
+
+Check the working version: [https://afternoon-bastion-92445.herokuapp.com/](https://afternoon-bastion-92445.herokuapp.com/)
+
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:

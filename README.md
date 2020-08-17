@@ -1,5 +1,7 @@
 # Ruby on Rails Social Media application
 
+<img src="/screenshots/web.png" alt="drawing" width="800"/>
+
 Check the working version: [https://afternoon-bastion-92445.herokuapp.com/](https://afternoon-bastion-92445.herokuapp.com/)
 
 ## Getting started
